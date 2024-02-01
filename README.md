@@ -1,5 +1,5 @@
 # Bem-vindo(a) 🖖🏻 
-## Link do meu portfólio https://lucaspontes-portfolio-website.streamlit.app/
+## Portfólio https://lucaspontes-portfolio-website.streamlit.app/
 
 <div>
   <img  height="210em" src="https://github-readme-stats.vercel.app/api?username=LucasPPontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
