@@ -6,7 +6,7 @@
 
 Pipelines ETL/ELT · Orquestração · Modelagem de Dados · DataOps
 
-🔗 [Portfólio](https://lucaspontes-portfolio-website.streamlit.app/)
+🔗 [Portfólio](https://lucasppontes.github.io/portfolio/)
 
 </div>
 
